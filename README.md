@@ -1,2 +1,3 @@
 # HOUSE_PRICE_PREDICTION
-All the details regarding the working of the project have been explained in the powerpoint presentation uploaded above.
+To predict the sale prices we are going to use the following linear regression algorithms: Ordinal Least Square (OLS) algorithm, Ridge regression algorithm, Lasso regression algorithm, Bayesian regression algorithm, and lastly Elastic Net regression algorithm. These algorithms can be feasibly implemented in python with the use of the scikit-learn package. Finally, we conclude which model is best suitable for the given case by evaluating each of them using the evaluation metrics provided by the scikit-learn package.
+All the other details regarding the working of the project have been explained in the powerpoint presentation uploaded above, please do check it.
