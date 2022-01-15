@@ -1,3 +1,2 @@
 # HOUSE_PRICE_PREDICTION
-We a Team of 4 have built this project for House price.
-Team Members: Prasana,Tarun,Karthik,Akshat
+All the details regarding the working of the project have been explained in the powerpoint presentation uploaded above.
